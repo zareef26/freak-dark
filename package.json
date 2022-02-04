@@ -1,7 +1,21 @@
 {
-    "name": "freak",
-    "displayName": "Freak",
-    "description": "",
+    "name": "freak-dark",
+    "displayName": "Freak Dark",
+    "description": "A dark theme customised for dark backgrounds.",
+    "publisher": "adnanzareef",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zareef26/freak-dark"
+    },
+    "license": "MIT",
+    "keywords": [
+        "freak",
+        "freak-dark",
+        "dark-theme-freak",
+        "theme",
+        "dark",
+        "dark-theme"
+    ],
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.64.0"
