@@ -3,6 +3,7 @@
     "displayName": "Freak Dark",
     "description": "A dark theme customised for dark backgrounds.",
     "publisher": "adnanzareef",
+    "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/zareef26/freak-dark"
@@ -16,7 +17,7 @@
         "dark",
         "dark-theme"
     ],
-    "version": "0.0.1",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.64.0"
     },
