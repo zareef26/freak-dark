@@ -1,7 +1,7 @@
 {
     "name": "freak-dark",
     "displayName": "Freak Dark",
-    "description": "A dark theme customised for dark backgrounds.",
+    "description": "A dark theme customised for dark background lovers.",
     "publisher": "adnanzareef",
     "icon": "icon.png",
     "repository": {
@@ -17,7 +17,7 @@
         "dark",
         "dark-theme"
     ],
-    "version": "0.3.0",
+    "version": "0.3.1",
     "engines": {
         "vscode": "^1.32.0"
     },

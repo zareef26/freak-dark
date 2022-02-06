@@ -159,7 +159,7 @@
 		{
 			"name": "Escape characters",
 			"scope": "constant.character.escape",
-			"settings": { "foreground": "#25B0BCE6" }
+			"settings": { "foreground": "#20c2d1" }
 		},
 		{
 			"name": "Named entities",
@@ -194,7 +194,7 @@
 		{
 			"name": "CSS ID selectors",
 			"scope": "entity.other.attribute-name.id",
-			"settings": { "foreground": "#25B0BCE6" }
+			"settings": { "foreground": "#20c2d1" }
 		},
 		{
 			"name": "Pseudo CSS",
@@ -257,7 +257,7 @@
 		{
 			"name": "Markup italics",
 			"scope": "markup.italic",
-			"settings": { "foreground": "#25B0BCE6", "fontStyle": "italic" }
+			"settings": { "foreground": "#20c2d1", "fontStyle": "italic" }
 		},
 		{
 			"name": "Markup code",
@@ -297,7 +297,7 @@
 		{
 			"name": "Provided functions",
 			"scope": "support.function",
-			"settings": { "foreground": "#25B0BCE6" }
+			"settings": { "foreground": "#20c2d1" }
 		},
 		{
 			"name": "Provided variables",

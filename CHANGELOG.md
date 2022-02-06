@@ -17,3 +17,7 @@
 ## [v0.3.0] - 06-02-2022
 
 -  Updated some colors
+
+## [v0.3.1] - 06-02-2022
+
+-  Updated some colors
