@@ -13,3 +13,7 @@
 ## [v0.2.2] - 05-02-2022
 
 -  Updated support for VS Code v1.32+
+
+## [v0.3.0] - 06-02-2022
+
+-  Updated some colors

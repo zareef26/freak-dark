@@ -2,6 +2,8 @@
 
 A freaky dark theme for Microsoft Visual Studio Code.
 
+Modified darker version of the [Horizon Extended](https://marketplace.visualstudio.com/items?itemName=LanceWilhelm.horizon-extended) theme. Special thanks to @lancewilhelm
+
 ## Installation
 
 1. Launch **Visual Studio Code**
