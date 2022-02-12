@@ -22,6 +22,10 @@
 
 -  Updated some colors
 
-## [v0.4.0] - 06-02-2022
+## [v0.4.0] - 11-02-2022
 
 -  Added a new theme [Ultra]
+
+## [v0.4.1] - 12-02-2022
+
+-  Minor color update
