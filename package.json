@@ -17,7 +17,7 @@
         "dark",
         "dark-theme"
     ],
-    "version": "0.4.1",
+    "version": "0.5.0",
     "engines": {
         "vscode": "^1.32.0"
     },
@@ -35,6 +35,11 @@
                 "label": "Freak Ultra Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Freak Ultra Dark-color-theme.json"
+            },
+            {
+                "label": "Freak Bluish Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Freak Bluish-Dark-color-theme.json"
             }
         ]
     }

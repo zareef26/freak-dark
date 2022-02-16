@@ -29,3 +29,7 @@
 ## [v0.4.1] - 12-02-2022
 
 -  Minor color update
+
+## [v0.5.0] - 16-02-2022
+
+-  Added a new theme [Bluish Dark]
